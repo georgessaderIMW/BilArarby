@@ -2,3 +2,5 @@
   Content-Encoding: br
 /Build/BilAraby.framework.js.br
   Content-Encoding: br
+/Build/BilAraby.wasm
+  Content-Type: application/wasm
